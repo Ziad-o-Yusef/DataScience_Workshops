@@ -1,1 +1,1 @@
-# DataScience_Workshops-Machinefy
+# DataScience_Workshops
